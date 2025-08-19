@@ -1,26 +1,34 @@
-# **Tema escolhido:** Nome da aplicação ou produto
+# **Gestor de Consumo de Energia Residencial:** menosluz.com
 
 Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Experiência do Usuário e Front-End (CCP310) do curso de Ciencia da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](https://github.com/fagnerpimentel).
 
 ## Componentes do Grupo
 
-- Nome Componente 1
-- Nome Componente 2
-- Nome Componente 3
+- Yllan Souza
+- Lucas Alves
+
 
 ## Resumo
+O Gestor de Consumo de Energia Residencial visa empoderar os usuários no controle de seus gastos com energia elétrica, promovendo uma gestão mais consciente, sustentável e econômica.
 
-Apresente uma breve descrição da sua aplicação ou produto.
+A aplicação é uma plataforma desenvolvida para monitorar, analisar e otimizar o uso de energia elétrica em residências. Por meio de uma interface intuitiva, o sistema permite que os usuários acompanhem o consumo de energia em tempo real, visualizem históricos detalhados e recebam recomendações para reduzir o desperdício e melhorar a eficiência.
+
+O aplicativo integra dados fornecidos por medidores inteligentes caso tenha ou inseridos manualmente, processando essas informações para gerar relatórios e médias de consumo. Além disso, a aplicação oferece metas de economia, simulações de custo com base em diferentes faixas tarifárias.
+
 
 ## Introdução
 
 - Apresente uma contextualização para o problema que o serviço ou poduto proposto irá resolver e por quê esse tipo de aplicação é necessária.
-- Em uma única frase, resuma o objetivo do serviço ou poduto.
+  A aplicação pode ser utilizada para diversos casos atualmente, tanto para uma dona de casa que pretende ter uma maior economia mensal, quanto para uma casa com vários aparelhos de ultima geração que em conjunto, gastam mais energia do que o necessário, podendo ser utilizada em quase todas as situações.
+- Em uma única frase, resuma o objetivo do serviço ou produto.
+  Auxiliar no gerenciamento do consumo de energia.
 - Que tipo de experiência o serviço ou poduto deve proporcionar para os usuários?
+  menor valor e um consumo mais consciente da eletricidade que ele utiliza em sua residência.
 
 ## Publico Alvo
 
 - Determine o seu público alvo:
+  O publico alvo é bem amplo, podendo ser donos de imóvel próprio, locatários, donos de propriedades para aluguel, focando em uma interface intuitiva para todas as idades elegiveis
 
 ### Personas
 
@@ -51,7 +59,7 @@ Apresente uma breve descrição da sua aplicação ou produto.
 - Quais informações sobre o ambiente, o serviço ou poduto deve guardar antes de iniciar a interação?
 - O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto?
 
-## Jornada do usuário
+## Jornada do usuário=====
 
 - Criar uma narrativa para o o seu serviço ou poduto com o usuário.
 - Determine o que o usuário realiza desde a primeira até o última interação com o serviço ou poduto.
@@ -90,3 +98,4 @@ Apresente uma breve descrição da sua aplicação ou produto.
 <!-- TODOs:
 - Add exemplos
  -->
+

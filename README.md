@@ -36,6 +36,7 @@ O aplicativo integra dados fornecidos por medidores inteligentes caso tenha ou i
 
 ### Personas
   Persona Primária: João
+  
 Descrição: João tem 45 anos, é casado com Maria e tem dois filhos adolescentes. Ele trabalha como analista administrativo e vive em um apartamento de médio porte na capital. Sua principal motivação é reduzir os custos mensais da casa, mas manter uma convivência boa com todos os aparelhos digitais em sua casa e a conta de energia é uma das despesas que mais o preocupa. Ele busca soluções práticas para economizar.
 
 Contexto Social/Cultural: Valoriza a estabilidade financeira e a economia familiar, Ele conversa com amigos e vizinhos sobre dicas para economizar e está sempre de olho em oportunidades para cortar gastos.
@@ -53,7 +54,7 @@ Dicas práticas para economizar energia no dia a dia.
 Uma estimativa do valor da conta antes que ela chegue.
 
   
-  Persona Secundária: Ana, a Gestora do Lar
+  Persona Secundária: Ana, a Gestora do Lar!!!
 Descrição: Ana tem 35 anos, é mãe de duas crianças e a principal responsável pela gestão das contas de casa. Ela passa grande parte do dia cuidando dos afazeres domésticos e da família. Ela se sente sobrecarregada com a quantidade de contas e papéis. Sua principal necessidade é ter uma forma fácil e organizada de visualizar e monitorar os gastos com energia, para que ela possa planejar o orçamento mensal sem surpresas. Ela usa o smartphone para organizar sua rotina e se sente confortável com aplicativos que oferecem uma boa usabilidade.
 
 Contexto Social/Cultural: Ela interage com outras mães e donas de casa em grupos de WhatsApp e redes sociais, compartilhando dicas de organização e economia doméstica. A rotina é agitada e a falta de tempo é uma grande barreira.
@@ -130,10 +131,10 @@ Um "resumo do mês" com os principais pontos de atenção.
 
 - Descreva o ambiente em que o serviço ou poduto deve ser utilizado.
   
-  Residências gerais.
+  Residências gerais.!!
 - Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?
   
-  Produto indicado para todos os indices sociais e economicos.
+  Produto indicado para todos os indices sociais e economicos.!!
 - Quais informações sobre o ambiente, o serviço ou produto deve guardar antes de iniciar a interação?
   
   que será utilizado dados de sua residência, verificação quase que diária desses dados.
@@ -182,5 +183,6 @@ Um "resumo do mês" com os principais pontos de atenção.
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 

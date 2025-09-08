@@ -54,16 +54,14 @@ Dicas práticas para economizar energia no dia a dia.
 Uma estimativa do valor da conta antes que ela chegue.
 
   
-  Persona Secundária: Ana, a Gestora do Lar!!!
-Descrição: Ana tem 35 anos, é mãe de duas crianças e a principal responsável pela gestão das contas de casa. Ela passa grande parte do dia cuidando dos afazeres domésticos e da família. Ela se sente sobrecarregada com a quantidade de contas e papéis. Sua principal necessidade é ter uma forma fácil e organizada de visualizar e monitorar os gastos com energia, para que ela possa planejar o orçamento mensal sem surpresas. Ela usa o smartphone para organizar sua rotina e se sente confortável com aplicativos que oferecem uma boa usabilidade.
+Persona Secundária: Robson
+Descrição: Robson tem 22 anos, é filho de João, e universitario. Ela passa grande parte do dia em casa estudando. Ela é a pessoa que mais gasta energia no dia a dia em casa. Sua principal necessidade é se organizar para deixar tudo mais otimizado para o dia a dia, para que ela possa estudar sem gerar muitos gastos. Ele usa o smartphone e computador para organizar sua rotina e se sente confortável com aplicativos que oferecem uma boa usabilidade.
 
-Contexto Social/Cultural: Ela interage com outras mães e donas de casa em grupos de WhatsApp e redes sociais, compartilhando dicas de organização e economia doméstica. A rotina é agitada e a falta de tempo é uma grande barreira.
+Contexto Social/Cultural: Ele interage com outros os colegas de faculdade usando principalmente as redes sociais e videochamadas
 
-Contexto Econômico: Família de classe média que busca otimizar o orçamento para garantir o bem-estar dos filhos e investir em atividades de lazer.
+Contexto Econômico: Família de classe média que busca otimizar o orçamento para ter um dia a dia mais tranquilo.
 
-O que ela precisa:
-
-Uma interface intuitiva e visualmente agradável com gráficos e dashboards.
+O que ele precisa: Gerar menos gastos no dia a dia para sua família
 
 Gráficos comparativos do consumo atual com meses anteriores.
 
@@ -82,48 +80,48 @@ Um "resumo do mês" com os principais pontos de atenção.
     
  João: visualiza noticias sobre aumento de valores de contas, e novas tecnologias que podem ser utilizadas em sua residência.
 
- Ana: sempre de olho em como estão as coisas em sua casa no modo geral, e em busca de oportunidades de lazer para ela e seus filhos.
+ Robson: sempre de olho em como estão as coisas em sua casa no modo geral, e em busca de ter um dia a dia mais otimizado
     
   - O que o usuário ouve: neste quadrante, buscamos entender o que o usuário está ouvindo, os sons que o cercam e como eles influenciam suas ações.
     
     João: Escuta seus amigos e companheiros de trabalho falando sobre costumes para melhor cuidado da residência e tecnologias novas, e sua familía sobre novos itens para sua casa ou outras opções para investir o orçamento mensal.
     
-     Ana: Ouve suas vizinhas e amigas falarem sobre o aumento geral do valor das coisas, e matérias de como melhorar sua rotina em casa.
+     Robson:Escuta seus colegas falando sobre tecnologias e formas/apps para estudo
  
     
   - O que o usuário diz e faz: aqui consideramos ações e comportamentos que o usuário apresenta durante sua interação com serviço ou produto.
     
   João: Verifica sempre que possível como está indo o consumo geral de sua casa, e quais aparelhos são mais rentaveis manter desligados ou em standby.
   
-  Ana: Utiliza a plataforma com foco em abaixar o valor médio mensal, e já programar uma futura atividade com o dinheiro economizado.
+  Robson: Utiliza a plataforma com foco em abaixar o valor médio mensal para ajudar as contas em casa.
  
     
   - O que o usuário pensa e sente: neste quadrante, buscamos entender os pensamentos, sentimentos, emoções e percepções que o usuário tem em relação ao serviço ou poduto. Quais expectativas o usuário cria sobre o serviço ou produto?
     
     João:Gera uma curiosidade por sempre poder ir atrás de novas oportunidades, e calma por ter uma ideia melhor das cobranças mensais.
     
-    Ana:Tem um misto de felicidade e calma por estar sempre a frente dos gastos em sua casa, e deixa ela motivada para sempre ir atrás do melhor para ela e seus filhos. 
+    Robson: Fica mais tranquilo com o tanto de coisas que utiliza estarem bem otimizadas.
  
     
   -Que tipo de serviço ou produto mais agrada essa persona?
   
   João: Produtos com inovação e garantia de qualidade/eficiência.
   
-  Ana:Meios de melhorar a qualidade de vida da sua familia, e uma interface facil de utilizar.
+  Robson:coisas com mais tecnologia e rápidas.
 
 
   - Dores: quando falamos sobre dores do usuário, estamos fazendo referência a quaisquer obstáculos, necessidades ou frustrações que o usuário possa experimentar ao tentar realizar uma tarefa ou alcançar um objetivo. Isso inclui, por exemplo, problemas de usabilidade, dificuldades de acesso ou outros desafios que podem afetar a experiência do usuário.
     
   João:Valores altos em novas tecnologias, dificuldade de acesso por multiplataformas em serviços gerais.
   
-  Ana:Interfaces de dificil compreensão, calculos muito complexos/com pouca assistência digital.
+  Robson:falta de tecnologia, calculos muito complexos/com pouca assistência digital.
  
     
   - Ganhos: nesse caso estamos falando de quaisquer benefícios ou recompensas que o usuário possa experimentar ao utilizar o serviço ou poduto. Isso pode incluir economia de tempo ou facilidade de uso, por exemplo. Que desejos do usuário o serviço ou poduto satisfaz?
     
   João:Maior economia nos custos mensais, facilidade de gerenciamento residencial.
   
-  Ana:maior assistencia nos valores e custos.
+  Robson:Maior velocidade de utilização no dia a dia.
  
   
 
@@ -183,6 +181,7 @@ Um "resumo do mês" com os principais pontos de atenção.
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 

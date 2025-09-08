@@ -159,6 +159,49 @@ Um "resumo do mês" com os principais pontos de atenção.
 
 ## Coleta de dados
 
+Primeiro tipo de coleta:Questionario
+
+utilizando Google Forms com as perguntas:
+2.Qual é a sua faixa etária?
+3.Quantas pessoas moram em sua residência?
+4.Qual é o tipo da sua residência?
+5.Qual a média do valor da sua conta de energia mensal?
+6.Possui algum sistema alternativo de energia?
+7.Para você, os valores são altos ou abusivos?
+8.Em quais períodos o consumo de energia é mais intenso em sua casa?
+9.Possui algum sistema alternativo de energia?
+10.Quais dos seguintes aparelhos você utiliza com maior frequência?
+11.Você considera sua residência eficiente no uso de energia?
+12.O que você acredita que mais aumenta sua conta de energia?
+13.Você estaria disposto a mudar seus hábitos para reduzir o consumo?
+14.Que tipo de funcionalidade você gostaria de ter em um gestor de energia residencial?
+15.Qual formato de acesso você prefere?
+16.Você teria interesse em receber relatórios mensais de economia de energia?
+
+Segundo tipo de coleta: observação participante, com interação do observador
+
+Roteiro:
+Acompanhar um dia inteiro a rotina de uma casa de classe média, no final de semana que são os dias com maiores gastos,
+utilizando meios para calcular quanto cada dispositivo gasta aproximadamente, e verificando quais são as coisas que podem gerar gastos extras,
+por simplesmente estarem ligadas sem uso, ou com uso excessivo.
+Realizar perguntas e observar a rotina dos residentes, e utilizar um modelo base da plataforma para que o próprio morador marque e veja todos os itens.
+O observador utilizará:
+Ficha de Observação Estruturada com:
+Facilidade de navegação 
+Clareza das informações 
+Reações do usuário 
+Tempo gasto em cada tarefa 
+Diário de Campo
+Anotações livres sobre comentários espontâneos do participante.
+Emoções percebidas
+
+Terceiro tipo de coleta: Estudos de Campo
+
+Roteiro: verificar com uma média de 10 pessoas, com um imóvel residêncial, solicitar o valor gasto no ultimo mes,
+e perguntar a quantidade de horas que a pessoa fica em casa, gerar uma média de custo, e gerar uma média do que pode ser evitado no dia a dia.
+
+
+
 ## Modelo de tarefas
 
 ## Design
@@ -181,6 +224,7 @@ Um "resumo do mês" com os principais pontos de atenção.
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 

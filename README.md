@@ -204,6 +204,8 @@ e perguntar a quantidade de horas que a pessoa fica em casa, gerar uma média de
 
 ## Modelo de tarefas
 
+
+https://docs.google.com/spreadsheets/d/1GZ3E8A4IeFLi3dOaKGMopGB4yZZmrv1yqnbnont9-ps/edit?usp=sharing
 ## Design
 
 - Pense nas características de Affordances do seu serviço ou poduto. 
@@ -224,6 +226,7 @@ e perguntar a quantidade de horas que a pessoa fica em casa, gerar uma média de
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 

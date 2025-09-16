@@ -129,10 +129,10 @@ Um "resumo do mês" com os principais pontos de atenção.
 
 - Descreva o ambiente em que o serviço ou poduto deve ser utilizado.
   
-  Residências gerais.!!
+  Residências gerais.!!(descrição ambiente fisico)
 - Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?
   
-  Produto indicado para todos os indices sociais e economicos.!!
+  Produto indicado para todos os indices sociais e economicos.!!(explicar melhor a classe que ira utilizar)
 - Quais informações sobre o ambiente, o serviço ou produto deve guardar antes de iniciar a interação?
   
   que será utilizado dados de sua residência, verificação quase que diária desses dados.
@@ -159,7 +159,7 @@ Um "resumo do mês" com os principais pontos de atenção.
 
 ## Coleta de dados
 
-Primeiro tipo de coleta:Questionario
+Primeiro tipo de coleta:Questionario (adicionar o link forms)
 
 utilizando Google Forms com as perguntas:
 2.Qual é a sua faixa etária?
@@ -203,7 +203,7 @@ e perguntar a quantidade de horas que a pessoa fica em casa, gerar uma média de
 
 
 ## Modelo de tarefas
-
+(gerar imagem hta, corrigir as funçoes, utilizar outro modelo, aplicar em mais áreas)
 
 https://docs.google.com/spreadsheets/d/1GZ3E8A4IeFLi3dOaKGMopGB4yZZmrv1yqnbnont9-ps/edit?usp=sharing
 ## Design
@@ -213,7 +213,7 @@ https://docs.google.com/spreadsheets/d/1GZ3E8A4IeFLi3dOaKGMopGB4yZZmrv1yqnbnont9
 - Discuta o papel das expectativas do usuário no projeto deste serviço ou poduto. Qual a importância e pontos a serem considerados se você quiser vender esse serviço ou poduto?
 
 ### Prototipação em baixo nível (papel)
-#### Avaliação heurística
+#### Avaliação heurística(adicionar foto)
 
 ### Prtotipação em médio nível (Figma)
 #### Avaliação heurística
@@ -226,6 +226,7 @@ https://docs.google.com/spreadsheets/d/1GZ3E8A4IeFLi3dOaKGMopGB4yZZmrv1yqnbnont9
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 

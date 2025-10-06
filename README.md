@@ -33,7 +33,7 @@ O aplicativo integra dados fornecidos por medidores inteligentes caso tenha ou i
 ## Publico Alvo
 
 - Determine o seu público alvo:
-  
+  !!!
   O publico alvo é bem amplo, podendo ser donos de imóvel próprio, locatários, donos de propriedades para aluguel, focando em uma interface intuitiva para todas as idades elegiveis
 
 ### Personas
@@ -221,6 +221,7 @@ https://docs.google.com/spreadsheets/d/1GZ3E8A4IeFLi3dOaKGMopGB4yZZmrv1yqnbnont9
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 

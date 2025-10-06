@@ -21,9 +21,11 @@ O aplicativo integra dados fornecidos por medidores inteligentes caso tenha ou i
 - Apresente uma contextualização para o problema que o serviço ou poduto proposto irá resolver e por quê esse tipo de aplicação é necessária.
   
   A aplicação pode ser utilizada para diversos casos atualmente, tanto para uma dona de casa que pretende ter uma maior economia mensal, quanto para uma casa com vários aparelhos de ultima geração que em conjunto, gastam mais energia do que o necessário, podendo ser utilizada em quase todas as situações.
+  
 - Em uma única frase, resuma o objetivo do serviço ou produto.
   
   Auxiliar no gerenciamento do consumo de energia.
+  
 - Que tipo de experiência o serviço ou poduto deve proporcionar para os usuários?
   
   Menor valor e um consumo mais consciente da eletricidade que ele utiliza em sua residência.
@@ -127,18 +129,26 @@ Um "resumo do mês" com os principais pontos de atenção.
 
 ## Contexto de uso
 
-- Descreva o ambiente em que o serviço ou poduto deve ser utilizado.
+- Descreva o ambiente em que o serviço ou produto deve ser utilizado.
   
-  Residências gerais.!!(descrição ambiente fisico)
+ O menosluz.com foi projetado para ser utilizado no ambiente doméstico geral, seja em apartamentos, casas ou condomínios. Fisicamente, este é um espaço com múltiplos pontos de consumo de energia: eletrodomésticos, eletrônicos, sistemas de iluminação e climatização.
+ 
 - Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?
   
-  Produto indicado para todos os indices sociais e economicos.!!(explicar melhor a classe que ira utilizar)
+  Embora o menosluz.com tenha potencial para ser utilizado por um amplo espectro de classes, seu foco primário recai sobre famílias de classe média e média-baixa.
+  Contexto Econômico: a conta de energia representa uma fatia significativa do orçamento mensal. A variação de preço e o aumento do consumo têm um impacto direto no planejamento financeiro. A principal motivação é a redução de custos e maior controle de despesas.
+  Contexto Social: o serviço se insere em um ambiente onde a economia doméstica é um tópico recorrente em conversas entre amigos, vizinhos e familiares. A plataforma atua como uma ferramenta que empodera o usuário, dando-lhe controle e argumentos para promover mudanças de hábitos dentro da própria família.
+  Contexto Cultural e de Acessibilidade:Para abranger classes com menor poder aquisitivo, o aplicativo deve ser leve, de baixo consumo de dados e permitir a inserção manual de informações da conta de luz, não dependendo exclusivamente de medidores inteligentes, que são caros. Para classes mais altas, o apelo pode se concentrar na automação, na gestão de múltiplos dispositivos smart e no viés ecológico, além da economia.
+  
 - Quais informações sobre o ambiente, o serviço ou produto deve guardar antes de iniciar a interação?
   
-  que será utilizado dados de sua residência, verificação quase que diária desses dados.
-- O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto?
+ Para que o menosluz.com ofereça uma experiência personalizada e precisa, ele precisa coletar e armazenar algumas informações essenciais sobre a residência durante o processo de onboarding. Essas informações "preparam o terreno" antes que o usuário comece a monitorar seu consumo no dia a dia.
   
-  estar com o ambiente residencial atualizado, e se necessário realizar mudanças para melhor utilização do produto.
+- O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou produto?
+  
+  O primeiro é o de monitoramento proativo, onde o ambiente da casa está em sua rotina normal. O usuário abre o aplicativo por hábito ou curiosidade para verificar o consumo diário, planejar o uso de aparelhos de alto impacto, como a máquina de lavar, ou buscar ativamente dicas para otimizar seus gastos e atingir suas metas de economia.
+
+O segundo contexto é o de investigação reativa, desencadeado por um evento específico. Isso ocorre quando o usuário percebe um pico de consumo em tempo real — como ao ligar o ar-condicionado — e abre o app para ver o impacto imediato, ou após receber uma conta de luz com valor inesperado, usando a plataforma para analisar o histórico e identificar a causa do aumento nos custos.
 
 ## Jornada do usuário=====
 
@@ -159,24 +169,9 @@ Um "resumo do mês" com os principais pontos de atenção.
 
 ## Coleta de dados
 
-Primeiro tipo de coleta:Questionario (adicionar o link forms)
+Primeiro tipo de coleta:Questionario 
+https://docs.google.com/forms/d/e/1FAIpQLSfZaP14msuOeLv_DJQ-96E-9YPHmClIFEIhL9M_B2KZb-Yyhw/viewform
 
-utilizando Google Forms com as perguntas:
-2.Qual é a sua faixa etária?
-3.Quantas pessoas moram em sua residência?
-4.Qual é o tipo da sua residência?
-5.Qual a média do valor da sua conta de energia mensal?
-6.Possui algum sistema alternativo de energia?
-7.Para você, os valores são altos ou abusivos?
-8.Em quais períodos o consumo de energia é mais intenso em sua casa?
-9.Possui algum sistema alternativo de energia?
-10.Quais dos seguintes aparelhos você utiliza com maior frequência?
-11.Você considera sua residência eficiente no uso de energia?
-12.O que você acredita que mais aumenta sua conta de energia?
-13.Você estaria disposto a mudar seus hábitos para reduzir o consumo?
-14.Que tipo de funcionalidade você gostaria de ter em um gestor de energia residencial?
-15.Qual formato de acesso você prefere?
-16.Você teria interesse em receber relatórios mensais de economia de energia?
 
 Segundo tipo de coleta: observação participante, com interação do observador
 
@@ -226,6 +221,7 @@ https://docs.google.com/spreadsheets/d/1GZ3E8A4IeFLi3dOaKGMopGB4yZZmrv1yqnbnont9
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 

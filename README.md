@@ -33,8 +33,7 @@ O aplicativo integra dados fornecidos por medidores inteligentes caso tenha ou i
 ## Publico Alvo
 
 - Determine o seu público alvo:
-  !!!
-  O publico alvo é bem amplo, podendo ser donos de imóvel próprio, locatários, donos de propriedades para aluguel, focando em uma interface intuitiva para todas as idades elegiveis
+O menosluz.com atende primariamente a residências de classe média e média-alta, um público que busca maior controle e eficiência para gerenciar um consumo de energia significativo. Secundariamente, a ferramenta é ideal para micro e pequenas empresas, que utilizam sua funcionalidade de análise para monitorar e reduzir custos operacionais, impactando diretamente a saúde financeira do negócio.
 
 ### Personas
   Persona Primária: João
@@ -221,6 +220,7 @@ https://docs.google.com/spreadsheets/d/1GZ3E8A4IeFLi3dOaKGMopGB4yZZmrv1yqnbnont9
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 

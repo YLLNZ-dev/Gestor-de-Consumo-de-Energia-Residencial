@@ -199,12 +199,58 @@ e perguntar a quantidade de horas que a pessoa fica em casa, gerar uma média de
 
 
 ## Modelo de tarefas
-(gerar imagem hta, corrigir as funçoes, utilizar outro modelo, aplicar em mais áreas)
+Cadastrar Consumo Residencial
+Objetivos/Operações | Problemas e Recomendações
 
-https://docs.google.com/spreadsheets/d/1GZ3E8A4IeFLi3dOaKGMopGB4yZZmrv1yqnbnont9-ps/edit?usp=sharing
+| Cadastrar residência para gestão de consumo | Input: formulário com informações da residência (faixa etária, número de moradores e tipo de residência). 1 > 2 | Feedback: o sistema exibe “pendente de análise” até confirmação. | Plano: preencher e confirmar os dados. | Recomendação: cadastro simples e rápido para o usuário. |
+|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.1 Informar faixa etária do responsável | Problema: resistência em informar idade exata. Recomendação: usar faixas etárias (ex.: 18–25, 26–40, 41–60, +60). |
+| 1.2 Informar quantidade de moradores | Problema: dados incorretos. Recomendação: limitar valor máximo e validar entrada. |
+| 1.3 Informar tipo da residência | Problema: tipos não padronizados. Recomendação: incluir opção “Outros”. |
+| Confirmar cadastro | Ação: confirmar dentro do prazo. Recomendação: envio automático de mensagem e lembrete. |
+
+GOAL 0: Cadastrar residência no sistema
+GOAL 1: Informar dados da residência
+METHOD 1.A: Preenchimento manual
+
+Selecionar faixa etária
+
+Inserir número de moradores
+
+Escolher tipo de residência
+
+METHOD 1.B: Importar dados
+
+Importar arquivo com informações (CSV/Excel)
+
+Confirmar importação e revisar dados
+
+GOAL 2: Registrar histórico de consumo
+METHOD 2.A: Inserção manual
+
+Adicionar consumo mensal
+
+Informar valor, mês e kWh
+
+METHOD 2.B: Importação de dados
+
+Importar histórico (CSV/Excel)
+
+Validar dados importados
+
+GOAL 3: Confirmar cadastro e gerar relatório
+METHOD 3.A: Confirmação automática
+
+Salvar e gerar relatório inicial de consumo
+
+METHOD 3.B: Revisão manual
+
+Salvar rascunho
+
+Conferir e confirmar cadastro
 ## Design
 
-- Pense nas características de Affordances do seu serviço ou poduto. 
+- Pense nas características de Affordances do seu serviço ou produto. 
     - Que tipo de acessibilidades devem ser consideradas dentro do seu projeto?
 - Discuta o papel das expectativas do usuário no projeto deste serviço ou produto. Qual a importância e pontos a serem considerados se você quiser vender esse serviço ou produto?
 
@@ -226,6 +272,7 @@ https://docs.google.com/spreadsheets/d/1GZ3E8A4IeFLi3dOaKGMopGB4yZZmrv1yqnbnont9
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 

@@ -209,7 +209,7 @@ https://docs.google.com/spreadsheets/d/1GZ3E8A4IeFLi3dOaKGMopGB4yZZmrv1yqnbnont9
 - Discuta o papel das expectativas do usuário no projeto deste serviço ou produto. Qual a importância e pontos a serem considerados se você quiser vender esse serviço ou produto?
 
 ### Prototipação em baixo nível (papel)
-![papel.1](https://github.com/user-attachments/assets/a904e341-fbcb-43d2-8a3a-fff91b9b47ed)
+<img src="https://github.com/user-attachments/assets/a904e341-fbcb-43d2-8a3a-fff91b9b47ed"alt="papel 1" width="50%">
 ![papel.2](https://github.com/user-attachments/assets/e813e808-7677-4164-a08d-556e3925d2f6)
 ![papel.3](https://github.com/user-attachments/assets/8fdc4e77-f44a-4ca3-823d-804884ac2b35)
 
@@ -227,6 +227,7 @@ https://docs.google.com/spreadsheets/d/1GZ3E8A4IeFLi3dOaKGMopGB4yZZmrv1yqnbnont9
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 

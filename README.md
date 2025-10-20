@@ -205,9 +205,11 @@ https://docs.google.com/spreadsheets/d/1GZ3E8A4IeFLi3dOaKGMopGB4yZZmrv1yqnbnont9
 
 - Pense nas características de Affordances do seu serviço ou poduto. 
     - Que tipo de acessibilidades devem ser consideradas dentro do seu projeto?
-- Discuta o papel das expectativas do usuário no projeto deste serviço ou poduto. Qual a importância e pontos a serem considerados se você quiser vender esse serviço ou poduto?
+- Discuta o papel das expectativas do usuário no projeto deste serviço ou produto. Qual a importância e pontos a serem considerados se você quiser vender esse serviço ou produto?
 
 ### Prototipação em baixo nível (papel)
+
+
 #### Avaliação heurística(adicionar foto)
 
 ### Prtotipação em médio nível (Figma)
@@ -221,6 +223,7 @@ https://docs.google.com/spreadsheets/d/1GZ3E8A4IeFLi3dOaKGMopGB4yZZmrv1yqnbnont9
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 

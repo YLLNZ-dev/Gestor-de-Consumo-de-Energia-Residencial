@@ -169,7 +169,8 @@ O segundo contexto é o de investigação reativa, desencadeado por um evento es
 
 ## Coleta de dados
 
-Primeiro tipo de coleta:Questionario 
+Primeiro tipo de coleta:
+Questionario 
 https://docs.google.com/forms/d/e/1FAIpQLSfZaP14msuOeLv_DJQ-96E-9YPHmClIFEIhL9M_B2KZb-Yyhw/viewform
 
 
@@ -223,6 +224,7 @@ https://docs.google.com/spreadsheets/d/1GZ3E8A4IeFLi3dOaKGMopGB4yZZmrv1yqnbnont9
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 

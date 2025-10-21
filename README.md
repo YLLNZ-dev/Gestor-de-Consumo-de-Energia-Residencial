@@ -150,7 +150,7 @@ Um "resumo do mês" com os principais pontos de atenção.
 
 O segundo contexto é o de investigação reativa, desencadeado por um evento específico. Isso ocorre quando o usuário percebe um pico de consumo em tempo real — como ao ligar o ar-condicionado — e abre o app para ver o impacto imediato, ou após receber uma conta de luz com valor inesperado, usando a plataforma para analisar o histórico e identificar a causa do aumento nos custos.
 
-## Jornada do usuário=====
+## Jornada do usuário
 
 - Criar uma narrativa para o o seu serviço ou produto com o usuário.
 - Determine o que o usuário realiza desde a primeira até o última interação com o serviço ou produto.
@@ -202,9 +202,8 @@ e perguntar a quantidade de horas que a pessoa fica em casa, gerar uma média de
 Cadastrar Consumo Residencial
 Objetivos/Operações | Problemas e Recomendações
 
-| Cadastrar residência para gestão de consumo | Input: formulário com informações da residência (faixa etária, número de moradores e tipo de residência). 1 > 2 | Feedback: o sistema exibe “pendente de análise” até confirmação. | Plano: preencher e confirmar os dados. | Recomendação: cadastro simples e rápido para o usuário. |
+| Cadastrar residência para gestão de consumo | Input: formulário com informações da residência (faixa etária, número de moradores e tipo de residência). 1 > 2 | Feedback: o sistema exibe “analisando" até ler todos os dados | Plano: preencher e confirmar os dados. | Recomendação: cadastro simples e rápido para o usuário. |
 
-|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.1 Informar faixa etária do responsável | Problema: resistência em informar idade exata. Recomendação: usar faixas etárias (ex.: 18–25, 26–40, 41–60, +60). |
 
 | 1.2 Informar quantidade de moradores | Problema: dados incorretos. Recomendação: limitar valor máximo e validar entrada. |
@@ -213,7 +212,7 @@ Objetivos/Operações | Problemas e Recomendações
 
 | Confirmar cadastro | Ação: confirmar dentro do prazo. Recomendação: envio automático de mensagem e lembrete. |
 
-#GOAL 0: Cadastrar residência no sistema
+#GOAL 1: Cadastrar residência no sistema
 
 METHOD 1.A: Preenchimento manual
 
@@ -278,6 +277,7 @@ Conferir e confirmar cadastro
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 

@@ -157,7 +157,55 @@ O segundo contexto é o de investigação reativa, desencadeado por um evento es
   - Descreva o que acontece ou pode acontecer passo a passo
   - Como a tarefa começa? Como a tarefa se desenvolve? Como a tarefa termina?
 
- O usuario após criar a conta na plataforma, coloca algumas informações sobre sua residência, se tiver disponível vincula aparelhos smarts no aplicativo, e acompanha estudos sobre o valor geral, quanto está programado para gastar no mês com energia e o que pode ser feito para reduzir esses valores, e mesmo após conseguir esse objetivo, o aplicativo segue tendo utilidade como consultor de valores, e sempre trazendo dicas para melhores valores.
+ Descoberta e Cadastro Inicial: O usuário descobre o aplicativo (por exemplo, através de uma loja de aplicativos, recomendação ou publicidade) buscando formas de entender e reduzir sua conta de energia. Ele realiza o download e passa por um processo de cadastro simples e rápido, criando sua conta com e-mail/senha ou utilizando login social.
+
+Configuração do Perfil Residencial (Onboarding): Logo após o primeiro login, o aplicativo guia o usuário para inserir informações essenciais sobre sua residência. Isso pode incluir:
+
+CEP (para buscar tarifas de energia locais).
+
+Tipo de residência (casa, apartamento).
+
+Número de moradores.
+
+Estimativa do tamanho ou principais cômodos.
+
+Identificação dos principais eletrodomésticos de alto consumo (geladeira, ar condicionado, chuveiro elétrico, etc.).
+
+Opcional: Informações sobre a última conta de luz para calibrar as estimativas iniciais.
+
+Integração com Dispositivos Inteligentes (Opcional, mas Valioso): Se o usuário possuir dispositivos smart home compatíveis (como tomadas inteligentes, medidores de energia smart, termostatos), o aplicativo oferece um processo claro para vinculá-los. Essa integração permite a coleta de dados de consumo em tempo real e por aparelho, oferecendo uma visão muito mais granular e precisa do uso de energia.
+
+Monitoramento e Análise Contínua: Com as informações configuradas (manualmente e/ou via dispositivos smart), o usuário passa a acompanhar seu consumo através de um painel de controle (dashboard) intuitivo. Ele visualiza:
+
+Consumo Atual: Quanto já foi gasto no ciclo de faturamento corrente (em kWh e R$).
+
+Projeção Mensal: Uma estimativa de quanto será o valor total da conta no final do mês, baseada nos padrões de uso atuais.
+
+Histórico e Comparações: Gráficos mostrando o consumo ao longo do tempo (dias, semanas, meses) e comparações com períodos anteriores.
+
+Detalhamento (se houver integração smart): Quais aparelhos estão consumindo mais energia e em que momentos.
+
+Recebimento de Insights e Recomendações: Com base nos dados coletados e no perfil da residência, o aplicativo começa a gerar insights e dicas personalizadas para otimização:
+
+Identificação de "vilões" de consumo (aparelhos gastando muito ou em horários inadequados).
+
+Sugestões de mudança de hábitos (ex: usar máquina de lavar em horários de tarifa mais baixa, se aplicável).
+
+Alertas sobre consumo atípico ou acima da meta estabelecida pelo usuário.
+
+Recomendações de configuração para dispositivos smart (ex: ajustar temperatura do ar condicionado).
+
+Acompanhamento de Metas e Conquistas: O usuário pode definir metas de redução de consumo ou de valor na conta. O aplicativo o ajuda a acompanhar o progresso em direção a esses objetivos, celebrando as economias alcançadas.
+
+Uso Contínuo como Consultor Energético: Mesmo após o usuário atingir suas metas iniciais de economia, o aplicativo continua sendo uma ferramenta valiosa. Ele funciona como um consultor permanente, oferecendo:
+
+Monitoramento contínuo dos gastos.
+
+Atualização de dicas e melhores práticas (baseadas em sazonalidade, novas tarifas, etc.).
+
+Alertas proativos sobre possíveis desperdícios ou oportunidades de economia.
+
+Relatórios periódicos sobre o desempenho energético da residência.
 
 ## Análise de concorrência
 
@@ -277,6 +325,7 @@ Conferir e confirmar cadastro
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 

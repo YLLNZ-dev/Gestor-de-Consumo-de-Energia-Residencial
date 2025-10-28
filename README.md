@@ -311,6 +311,8 @@ Conferir e confirmar cadastro
 <img src="https://github.com/user-attachments/assets/a904e341-fbcb-43d2-8a3a-fff91b9b47ed" alt="papel 1" width="50%">
 <img src="https://github.com/user-attachments/assets/e813e808-7677-4164-a08d-556e3925d2f6" alt="papel.2" width="50%">
 <img src="https://github.com/user-attachments/assets/8fdc4e77-f44a-4ca3-823d-804884ac2b35" alt="papel.3" width="50%">
+<img src="https://github.com/user-attachments/assets/e7a6dbc7-81fd-4e4c-b13b-3fd7e3ab3693" alt="Molic" width="50%">
+
 
 #### Avaliação heurística(adicionar foto)
 
@@ -325,6 +327,7 @@ Conferir e confirmar cadastro
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 

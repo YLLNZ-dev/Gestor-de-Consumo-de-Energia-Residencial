@@ -314,21 +314,19 @@ Conferir e confirmar cadastro
 <img src="https://github.com/user-attachments/assets/e7a6dbc7-81fd-4e4c-b13b-3fd7e3ab3693" alt="Molic" width="50%">
 
 
-#### Avaliação heurística(adicionar foto)
-
 ### Prtotipação em médio nível (Figma)
-https://warm-stroke-17584250.figma.site
+[https://warm-stroke-17584250.figma.site](https://warm-stroke-17584250.figma.site)
 
 #### Avaliação heurística
+[Modelo 03 Avaliacao Heuristica - Yllan.pdf](https://github.com/user-attachments/files/23322423/Modelo.03.Avaliacao.Heuristica.-.Yllan.pdf)
 
-### Prtotipação em alto nível (React)
-#### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
 
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 

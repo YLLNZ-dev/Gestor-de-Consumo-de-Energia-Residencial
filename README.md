@@ -303,7 +303,7 @@ Salvar rascunho
 Conferir e confirmar cadastro
 ## Design
 
-- Pense nas características de Affordances do seu serviço ou produto. 
+- Pense nas características de Affordances do seu serviço ou produto.   
     - Que tipo de acessibilidades devem ser consideradas dentro do seu projeto?
 - Discuta o papel das expectativas do usuário no projeto deste serviço ou produto. Qual a importância e pontos a serem considerados se você quiser vender esse serviço ou produto?
 
@@ -314,7 +314,7 @@ Conferir e confirmar cadastro
 <img src="https://github.com/user-attachments/assets/e7a6dbc7-81fd-4e4c-b13b-3fd7e3ab3693" alt="Molic" width="50%">
 
 
-### Prtotipação em médio nível (Figma)
+### Prototipação em médio nível (Figma)
 [https://warm-stroke-17584250.figma.site](https://warm-stroke-17584250.figma.site)
 
 #### Avaliação heurística
@@ -326,6 +326,7 @@ Conferir e confirmar cadastro
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 

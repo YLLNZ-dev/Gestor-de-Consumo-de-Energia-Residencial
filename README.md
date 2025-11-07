@@ -319,6 +319,7 @@ Conferir e confirmar cadastro
 
 #### Avaliação heurística
 [Modelo 03 Avaliacao Heuristica - Yllan.pdf](https://github.com/user-attachments/files/23322423/Modelo.03.Avaliacao.Heuristica.-.Yllan.pdf)
+[Modelo 03 Avaliacao Heuristica Lucas-Higor.xls](https://github.com/user-attachments/files/23426564/Modelo.03.Avaliacao.Heuristica.Lucas-Higor.xls)
 
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
@@ -326,6 +327,7 @@ Conferir e confirmar cadastro
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 

@@ -247,18 +247,9 @@ e perguntar a quantidade de horas que a pessoa fica em casa, gerar uma média de
 
 
 ## Modelo de tarefas
-Cadastrar Consumo Residencial
-Objetivos/Operações | Problemas e Recomendações
+<img width="1038" height="579" alt="image" src="https://github.com/user-attachments/assets/609ad455-7e5d-40a9-9792-aaedcb239005" />
 
-| Cadastrar residência para gestão de consumo | Input: formulário com informações da residência (faixa etária, número de moradores e tipo de residência). 1 > 2 | Feedback: o sistema exibe “analisando" até ler todos os dados | Plano: preencher e confirmar os dados. | Recomendação: cadastro simples e rápido para o usuário. |
-
-| 1.1 Informar faixa etária do responsável | Problema: resistência em informar idade exata. Recomendação: usar faixas etárias (ex.: 18–25, 26–40, 41–60, +60). |
-
-| 1.2 Informar quantidade de moradores | Problema: dados incorretos. Recomendação: limitar valor máximo e validar entrada. |
-
-| 1.3 Informar tipo da residência | Problema: tipos não padronizados. Recomendação: incluir opção “Outros”. |
-
-| Confirmar cadastro | Ação: confirmar dentro do prazo. Recomendação: envio automático de mensagem e lembrete. |
+<img width="994" height="690" alt="image" src="https://github.com/user-attachments/assets/3c087a54-aabb-4ef3-8cde-7e69df0602b7" />
 
 #GOAL 1: Cadastrar residência no sistema
 
@@ -327,6 +318,7 @@ Conferir e confirmar cadastro
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
